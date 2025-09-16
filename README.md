@@ -17,7 +17,7 @@ Welcome to the **Local LLM-based Retrieval-Augmented Generation (RAG) System**! 
 3. Configure `constants.py` for embedding models and OpenSearch settings.
 4. Run the Streamlit app: `streamlit run Welcome.py`
 
-### 📘 Blog Guide
+### 📘 Guide
 For a detailed walkthrough of the setup and code, check out the notebooks first. The same functionality is then achieved via the .py files inside src:
 
 1. notebooks\01_Prerequisites_and_Environment_Setup.ipynb --> Shows how to setup the Opensearch server and dashbpard via      docker, hybrid search pipeline, ollama and other requirements
